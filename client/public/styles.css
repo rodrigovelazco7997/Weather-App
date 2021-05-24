@@ -1,0 +1,30 @@
+.header{
+    padding-bottom: 6%;
+    background:linear-gradient(180deg, #004e92,#000428);
+}
+
+
+#root{
+    background: linear-gradient(0deg,#004e92,#000428);
+}
+
+.body{
+    height: ;
+}
+
+
+h1{
+    background: linear-gradient(180deg, rgb(92, 238, 218), #16BFFB);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-style:oblique;
+    text-decoration: underline #16BFFB;
+    display: flex;
+    justify-content: center;
+    font-family:cursive ;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
